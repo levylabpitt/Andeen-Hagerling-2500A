@@ -10,6 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="AH2500A Measurement--Cluster.ctl" Type="VI" URL="../Typedefs/AH2500A Measurement--Cluster.ctl"/>
 		<Item Name="AH2500A.lvclass" Type="LVClass" URL="../SMOs/AH2500A/AH2500A.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
