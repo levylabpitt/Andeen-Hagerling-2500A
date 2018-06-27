@@ -10,6 +10,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="build support" Type="Folder">
+			<Item Name="AH2500A.vipb" Type="Document" URL="../../build support/AH2500A.vipb"/>
+		</Item>
 		<Item Name="AH2500A.lvclass" Type="LVClass" URL="../SMOs/AH2500A/AH2500A.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
