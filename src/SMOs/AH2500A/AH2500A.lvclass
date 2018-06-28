@@ -29,6 +29,15 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="drivers" Type="Folder">
+		<Item Name="Read Instrument.vi" Type="VI" URL="../../../drivers/Read Instrument.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'J!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"&amp;!#A!,9W&amp;Q97.J&gt;'&amp;O9W5!#U!+!!2M&lt;X.T!!!,1!I!"&amp;:F?'-!!&amp;5!]1!!!!!!!!!#$U&amp;)-D5Q-%%O&lt;(:D&lt;'&amp;T=S""3$)V-$"")%VF98.V=G6N:7ZU,3V$&lt;(6T&gt;'6S,G.U&lt;!!=1&amp;!!!Q!&amp;!!9!"QN.:7&amp;T&gt;8*F&lt;76O&gt;!![1(!!$A6*&lt;H.U=A!!&amp;A#!!!!!!!%!"!!!!!%!!!!!!!!76EF413"S:8.P&gt;8*D:3"O97VF)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!W1(!!$A6*&lt;H.U=A!!&amp;A#!!!!!!!%!"!!!!!%!!!!!!!!36EF413"S:8.P&gt;8*D:3"O97VF!!"5!0!!$!!$!!1!#!!*!!1!"!!%!!1!#A!%!!1!#Q-!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!#!!!!!!"!!Q!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+		</Item>
 		<Item Name="Set DC Bias.vi" Type="VI" URL="../../../drivers/Set DC Bias.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'#!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!&amp;%!Q`````QN4:7ZE)(.U=GFO:Q!91$$`````$V*F971A&lt;X6U)(*F=X6M&gt;!![1(!!$A6*&lt;H.U=A!!&amp;A#!!!!!!!%!"!!!!!%!!!!!!!!76EF413"S:8.P&gt;8*D:3"O97VF)'^V&gt;!!!"!!!!":!5!!$!!!!!1!##'6S=G^S)'FO!!!Z1!I!-U&amp;T=WFH&lt;C!A2%-A9GFB=S"B9W.P=G2J&lt;G=A&gt;']A&gt;'BF)'.I98*U)'^O)(2I:3"S;7&gt;I&gt;!!W1(!!$A6*&lt;H.U=A!!&amp;A#!!!!!!!%!"!!!!!%!!!!!!!!36EF413"S:8.P&gt;8*D:3"O97VF!!"/!0!!#Q!$!!1!"1!'!!=!"Q!(!!A!"Q!*!!I$!!$I!!!."Q!!#1!!!!E!!!!.#A!!!!!!!!!!!!!!!!!!#A!!!!!!!!!)!!!!#!!!!!!"!!M!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -64,15 +73,6 @@
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
-		</Item>
-		<Item Name="Read Instrument.vi" Type="VI" URL="../../../drivers/Read Instrument.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'@!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"&amp;!#A!,9W&amp;Q97.J&gt;'&amp;O9W5!#U!+!!2M&lt;X.T!!!,1!I!"&amp;:F?'-!!&amp;5!]1!!!!!!!!!#$U&amp;)-D5Q-%%O&lt;(:D&lt;'&amp;T=S""3$)V-$"")%VF98.V=G6N:7ZU,3V$&lt;(6T&gt;'6S,G.U&lt;!!=1&amp;!!!Q!&amp;!!9!"QN.:7&amp;T&gt;8*F&lt;76O&gt;!![1(!!$A6*&lt;H.U=A!!&amp;A#!!!!!!!%!"!!!!!%!!!!!!!!76EF413"S:8.P&gt;8*D:3"O97VF)'^V&gt;!!!&amp;E"1!!-!!!!"!!)):8*S&lt;X)A;7Y!!$:!=!!/"5FO=X2S!!!7!)!!!!!!!1!%!!!!!1!!!!!!!"*736.")(*F=W^V=G.F)'ZB&lt;75!!&amp;1!]!!-!!-!"!!)!!E!"!!%!!1!"!!+!!1!"!!,!Q!!?!!!$1A!!!!!!!!*!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!)!!!!!!%!$!!!!!!</Property>
-			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1350574608</Property>
 		</Item>
 	</Item>
 	<Item Name="Process.vi" Type="VI" URL="../Process.vi">
