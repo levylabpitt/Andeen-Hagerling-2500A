@@ -29,15 +29,6 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="drivers" Type="Folder">
-		<Item Name="capbr single measurement.vi" Type="VI" URL="../../../drivers/capbr single measurement.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#O!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!ABF=H*P=C"J&lt;A!!$5!+!!&gt;7&lt;WRU97&gt;F!!N!#A!%4'^T=Q!!%5!+!!N$98"B9WFU97ZD:1!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!+A$Q!!5!!Q!%!!5!"A!(!Q!!1A!!#A!!!!E!!!!*!!!!#1!!!!E!!!!!!1!)!!!!!!</Property>
-			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1082143248</Property>
-		</Item>
 		<Item Name="Set DC Bias.vi" Type="VI" URL="../../../drivers/Set DC Bias.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'#!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!&amp;%!Q`````QN4:7ZE)(.U=GFO:Q!91$$`````$V*F971A&lt;X6U)(*F=X6M&gt;!![1(!!$A6*&lt;H.U=A!!&amp;A#!!!!!!!%!"!!!!!%!!!!!!!!76EF413"S:8.P&gt;8*D:3"O97VF)'^V&gt;!!!"!!!!":!5!!$!!!!!1!##'6S=G^S)'FO!!!Z1!I!-U&amp;T=WFH&lt;C!A2%-A9GFB=S"B9W.P=G2J&lt;G=A&gt;']A&gt;'BF)'.I98*U)'^O)(2I:3"S;7&gt;I&gt;!!W1(!!$A6*&lt;H.U=A!!&amp;A#!!!!!!!%!"!!!!!%!!!!!!!!36EF413"S:8.P&gt;8*D:3"O97VF!!"/!0!!#Q!$!!1!"1!'!!=!"Q!(!!A!"Q!*!!I$!!$I!!!."Q!!#1!!!!E!!!!.#A!!!!!!!!!!!!!!!!!!#A!!!!!!!!!)!!!!#!!!!!!"!!M!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
