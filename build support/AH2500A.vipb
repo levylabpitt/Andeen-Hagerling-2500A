@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2018-06-22 10:30:52" Modified_Date="2018-06-27 17:15:53" Creator="Patrick" Comments="" ID="46ac03ff1c07acaa6833560126ece4e6">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2018-06-22 10:30:52" Modified_Date="2018-06-28 11:35:36" Creator="Patrick" Comments="" ID="9d936411023e1ca24dfff2ae9ec78801">
   <Library_General_Settings>
     <Package_File_Name>Levylab_lib_AH2500A</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.1.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\src</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -32,8 +32,7 @@
       <Copyright/>
       <Packager/>
       <URL/>
-      <Release_Notes>- Initial build
-- VIs slightly modified from version on P: drive</Release_Notes>
+      <Release_Notes>- Update Palette Icon</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -200,7 +199,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>AH2500A</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Set Max AC voltage.vi</NameSub_Menu_Name>
         <Short_Name>AH2500A</Short_Name>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -281,7 +280,7 @@
         <Path>..\src\drivers\Set Units.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8C49182B1950BDFA9F3E42BB499E986B</GUID>
+      <GUID>64953849EE0881E76E2CC3F209386B82</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
