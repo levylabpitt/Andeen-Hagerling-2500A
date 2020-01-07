@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2018-06-22 10:30:52" Modified_Date="2020-01-07 14:25:23" Creator="Patrick" Comments="" ID="4a2ae9ca09919d43985775e368768846">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2018-06-22 10:30:52" Modified_Date="2020-01-07 14:26:58" Creator="Patrick" Comments="" ID="fbc7607a1cd36b7c937d991f242a6e5e">
   <Library_General_Settings>
     <Package_File_Name>Levylab_lib_AH2500A</Package_File_Name>
-    <Library_Version>1.1.0.3</Library_Version>
+    <Library_Version>1.1.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\src</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
