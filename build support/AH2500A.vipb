@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-06-22 10:30:52" Modified_Date="2022-02-08 16:46:10" Creator="Patrick" Comments="" ID="a66bc8b6630fc2036d5eccf8b9c29155">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-06-22 10:30:52" Modified_Date="2022-04-22 08:24:42" Creator="Patrick" Comments="" ID="85843893bef817a20d4ba48644c60b91">
   <Library_General_Settings>
     <Package_File_Name>Levylab_lib_AH2500A</Package_File_Name>
-    <Library_Version>1.1.4.2</Library_Version>
+    <Library_Version>1.1.5.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\src</Library_Source_Folder>
     <Library_Output_Folder>..\builds\Package</Library_Output_Folder>
@@ -34,8 +34,7 @@
       <Copyright/>
       <Packager/>
       <URL/>
-      <Release_Notes>- Update controls in set methods
-- add subVI for r/w: simulated when address is empty</Release_Notes>
+      <Release_Notes>- Update to Instrument Framework v1.11.3.2</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -311,7 +310,7 @@
         <Path>..\src\SMOs\AH2500A\drivers\Set Loss Units.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8C082795810411AF24AFDCF5CDE9DB21</GUID>
+      <GUID>253067295F2ADAF967B548DA9E126A9E</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
