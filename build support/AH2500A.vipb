@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-06-22 10:30:52" Modified_Date="2022-05-03 12:27:29" Creator="Patrick" Comments="" ID="652657c4ada8ed3d57c48d6b64a1371b">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-06-22 10:30:52" Modified_Date="2022-05-23 21:57:22" Creator="Patrick" Comments="" ID="91304a37fe764c2664c8510ceeb96571">
   <Library_General_Settings>
     <Package_File_Name>Levylab_lib_AH2500A</Package_File_Name>
-    <Library_Version>1.1.5.2</Library_Version>
+    <Library_Version>1.1.6.1</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\src</Library_Source_Folder>
     <Library_Output_Folder>..\builds\Package</Library_Output_Folder>
@@ -34,7 +34,7 @@
       <Copyright/>
       <Packager/>
       <URL/>
-      <Release_Notes>- Update to Instrument Framework v1.11.3.2</Release_Notes>
+      <Release_Notes>- update to Instrument Framework v1.12</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -310,7 +310,7 @@
         <Path>..\src\SMOs\AH2500A\drivers\Set Loss Units.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>53D70C6F8FBED5A940B07C64B445B758</GUID>
+      <GUID>C7F37EBC96A33BF7FA956B977AD8F88B</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
