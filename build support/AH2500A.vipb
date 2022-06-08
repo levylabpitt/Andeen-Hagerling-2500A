@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-06-22 10:30:52" Modified_Date="2022-06-08 10:07:01" Creator="Patrick" Comments="" ID="c93e9db120c59bef8d9d0efc85b7b56f">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-06-22 10:30:52" Modified_Date="2022-06-08 17:35:21" Creator="Patrick" Comments="" ID="8dfbfd825ab15256705c0d4a6fdce53f">
   <Library_General_Settings>
     <Package_File_Name>Levylab_lib_AH2500A</Package_File_Name>
-    <Library_Version>1.1.6.6</Library_Version>
+    <Library_Version>1.1.6.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\src</Library_Source_Folder>
     <Library_Output_Folder>..\builds\Package</Library_Output_Folder>
@@ -310,7 +310,7 @@
         <Path>..\src\SMOs\AH2500A\drivers\Set Loss Units.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>ABF176C3C3EFD043B5E2CC1B43CC8F39</GUID>
+      <GUID>30B5369BC8B8F8E1FDD60C06D1856D30</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
