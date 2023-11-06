@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-06-22 10:30:52" Modified_Date="2023-11-06 15:52:17" Creator="Patrick" Comments="" ID="cc2c654835b7cfc75446084c1f69a361">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-06-22 10:30:52" Modified_Date="2023-11-06 16:04:35" Creator="Patrick" Comments="" ID="44b1ae1f80ec61a0148d675a28da14eb">
   <Library_General_Settings>
     <Package_File_Name>Levylab_lib_AH2500A</Package_File_Name>
     <Library_Version>1.2.0.3</Library_Version>
@@ -21,7 +21,7 @@
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
-      <Post-Build_VI/>
+      <Post-Build_VI>Post-Build Custom Action.vi</Post-Build_VI>
       <Pre-Install_VI/>
       <Post-Install_VI/>
       <Pre-Uninstall_VI/>
@@ -228,7 +228,7 @@
         <Path>..\src\SMOs\Inst.AH2500\API\getLoss.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4AFD859AD6E77D16CF09805009904719</GUID>
+      <GUID>354E5F4EC4640A2241EDA23A0BD8CD46</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
