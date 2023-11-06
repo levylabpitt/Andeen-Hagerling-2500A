@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-06-22 10:30:52" Modified_Date="2023-11-06 07:30:02" Creator="Patrick" Comments="" ID="32104c2d4db4991290ba762e3d21d01a">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-06-22 10:30:52" Modified_Date="2023-11-06 08:39:06" Creator="Patrick" Comments="" ID="da2cca2efb54c585c9af5a095742ebad">
   <Library_General_Settings>
     <Package_File_Name>Levylab_lib_AH2500A</Package_File_Name>
-    <Library_Version>1.2.0.1</Library_Version>
+    <Library_Version>1.2.0.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\src</Library_Source_Folder>
     <Library_Output_Folder>..\builds\Package</Library_Output_Folder>
@@ -214,7 +214,7 @@
         <Path>..\src\SMOs\Inst.AH2500\API\Get Capacitance.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>353DF5A1F29AC81D8EBBED4D1506CD53</GUID>
+      <GUID>ECF2D5715F60A55DE1F7A4F79C55AF27</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
