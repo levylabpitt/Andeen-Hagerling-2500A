@@ -13,6 +13,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="build support" Type="Folder">
+			<Item Name="AH2500A Build.vi" Type="VI" URL="../../build support/AH2500A Build.vi"/>
 			<Item Name="AH2500A.ico" Type="Document" URL="../../build support/AH2500A.ico"/>
 			<Item Name="AH2500A.vipb" Type="Document" URL="../../build support/AH2500A.vipb"/>
 			<Item Name="AH2500A.vipc" Type="Document" URL="../../build support/AH2500A.vipc"/>
@@ -931,6 +932,7 @@
 				<Item Name="Librarian Rename.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Librarian Rename.vi"/>
 				<Item Name="Librarian.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Librarian.vi"/>
 				<Item Name="List Directory and LLBs.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/List Directory and LLBs.vi"/>
+				<Item Name="LMH-Toolbox.lvlib" Type="Library" URL="/&lt;vilib&gt;/MakerHub/Toolbox/LMH-Toolbox.lvlib"/>
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
 				<Item Name="LV70U32ToDateRec.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/LV70U32ToDateRec.vi"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
@@ -1413,7 +1415,9 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{78BD9293-4A4A-4AE7-9BB7-DCCA2430A2CE}</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Bld_version.minor" Type="Int">2</Property>
 				<Property Name="Destination[0].destName" Type="Str">AH2500A.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/Application/NI_AB_PROJECTNAME.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
@@ -1521,7 +1525,7 @@
 				<Property Name="INST_defaultDir" Type="Str">{36BAAB46-AB06-4349-862E-020D53994AB0}</Property>
 				<Property Name="INST_installerName" Type="Str">setup.exe</Property>
 				<Property Name="INST_productName" Type="Str">AH2500A</Property>
-				<Property Name="INST_productVersion" Type="Str">1.0.0</Property>
+				<Property Name="INST_productVersion" Type="Str">1.2.0</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">19018009</Property>
 				<Property Name="MSI_arpCompany" Type="Str">University of Pittsburgh</Property>
