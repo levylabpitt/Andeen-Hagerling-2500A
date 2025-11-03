@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-06-22 10:30:52" Modified_Date="2025-06-25 12:53:50" Creator="Patrick" Comments="" ID="45f48e08dae034830c51984fd6ef860a">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-06-22 10:30:52" Modified_Date="2025-11-03 17:11:50" Creator="Patrick" Comments="" ID="c6104a8e2eae213aa8896fa5428c2dbc">
   <Library_General_Settings>
     <Package_File_Name>Levylab_lib_AH2500A</Package_File_Name>
-    <Library_Version>1.4.0.9</Library_Version>
+    <Library_Version>1.4.1.9</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\src</Library_Source_Folder>
     <Library_Output_Folder>..\builds\Package</Library_Output_Folder>
@@ -35,11 +35,7 @@
       <Packager/>
       <URL/>
       <Release_Notes>[1.4.0]
-- Add SHOW SPECIAL hardware driver
-- Add Open/Close hardware drivers
-- Add Get SMO Serial Number and Get SMO Vendor overrides
-- Ensure UI uses only "local" communication
-- Updated ZMQ backend</Release_Notes>
+- build with pgsql/3.10.2.11</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -246,7 +242,7 @@
         <Path>..\src\AH2500</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1E7B1E1E0E6E35914E9CB3BF0158E5BA</GUID>
+      <GUID>8C457AD0EDE285E612D6CFEDF0973FC6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -365,7 +361,7 @@
         <Path>..\src\AH2500\SHOW STATUS.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0F79A4A8F6C563D92601A2A0274A8F38</GUID>
+      <GUID>E2230D290E291F1A1AE38BA6863A08DF</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
