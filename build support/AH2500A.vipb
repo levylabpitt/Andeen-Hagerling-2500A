@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-06-22 10:30:52" Modified_Date="2026-02-06 07:56:11" Creator="Patrick" Comments="" ID="3e895dd0c1bd3120718094a3148e7d18">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-06-22 10:30:52" Modified_Date="2026-02-06 08:28:30" Creator="Patrick" Comments="" ID="121b2416c2f52f95f69bd3b41ae50af4">
   <Library_General_Settings>
     <Package_File_Name>Levylab_lib_AH2500A</Package_File_Name>
-    <Library_Version>1.4.2.11</Library_Version>
+    <Library_Version>1.4.2.12</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\src</Library_Source_Folder>
     <Library_Output_Folder>..\builds\Package</Library_Output_Folder>
@@ -242,7 +242,7 @@
         <Path>..\src\AH2500</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>739F6BC0AE1A2D58E1401C339CEAA7A4</GUID>
+      <GUID>9385F60D7EEF8443EE66CF3077759DF2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -361,7 +361,7 @@
         <Path>..\src\AH2500\SHOW STATUS.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2B1886A1AC60C612F183F879465575A6</GUID>
+      <GUID>F76D97AE0A8D51E91BBC827916D47CDB</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
